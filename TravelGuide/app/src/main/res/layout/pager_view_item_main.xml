@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+    <ImageView
+        android:id="@+id/pager_item_imageView"
+        android:src="@drawable/guangzhou_tower"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:id="@+id/pager_item_textView"
+        android:layout_alignBottom="@+id/pager_item_imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Guangzhou Tower"
+        android:textSize="20sp"
+        android:textColor="@android:color/white"
+        android:background="#80000000"
+        android:paddingStart="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"/>
+
+</RelativeLayout>

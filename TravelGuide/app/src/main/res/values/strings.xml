@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Travel Guide</string>
+
+    <string name="GZT_name">Canton Tower</string>
+    <string name="GZT_hours">9:30 AM - 10:30 PM</string>
+    <string name="GZT_price">25 dollars</string>
+    <string name="GZT_address">Yuejiang Road West/Yiyuan Road, Haizhu District, Guangzhou, Guangdong Province, China</string>
+    <string name="GZT_about">The Canton Tower (Chinese: 广州塔), formally Guangzhou TV Astronomical and Sightseeing Tower (Chinese: 广州电视台天文及观光塔), is a 604-meter (1,982 ft)-tall multipurpose observation tower in the Haizhu District of Guangzhou (alternatively romanized as Canton).[6][14][15] The tower was topped out in 2009 and it became operational on 29 September 2010 for the 2010 Asian Games.[16] The tower briefly held the title of tallest tower in the world, replacing the CN Tower, before being surpassed by the Tokyo Skytree.[17] It was the tallest structure in China prior to the topping out of the Shanghai Tower on 3 August 2013, and is now the second tallest tower and the fourth-tallest freestanding structure in the world.</string>\
+
+    <string name="CJC_name">Chen Clan Ancestral Hall</string>
+    <string name="CJC_hours">9:00 AM - 5:30 PM</string>
+    <string name="CJC_price">2 dollars</string>
+    <string name="CJC_address">34 Enlongli, Zhongshan 78th Road, Liwan District, Guangzhou, Guangdong Province, China</string>
+    <string name="CJC_about">The Chen Clan Ancestral Hall or Chen Clan Academy is an academic temple in Guangzhou, China, built by the 72 Chen clans for their juniors\' accommodation and preparation for the imperial examinations in 1894 in Qing Dynasty. Later it was changed to be the Chen Clan\'s Industry College, and then middle schools afterward.</string>
+
+    <string name="GZ_church_name">Sacred Heart Cathedral</string>
+    <string name="GZ_church_hours">8:00 AM - 5:30 PM</string>
+    <string name="GZ_church_price">Free</string>
+    <string name="GZ_church_address">Yide Road, Yuexiu District, Guangzhou, Guangdong Province, China</string>
+    <string name="GZ_church_about">The Sacred Heart Cathedral, properly the Cathedral of the Sacred Heart of Jesus and also known as the Stone House by locals,[2] is a Gothic Revival Roman Catholic cathedral in Guangzhou, China. It is the seat of the Archbishop of Guangzhou. The cathedral is located at 56 Yide Road (in Chinese: 一德路56号), on the north bank of the Pearl River at the heart of the old town. It is one of the few cathedrals in the world to be entirely built of granite, including all the walls, pillars, and the twin towers.</string>
+
+    <string name="GZ_theatre_name">Guangzhou Opera House</string>
+    <string name="GZ_theatre_hours">9:30 AM - 4:30 PM (Weekend)</string>
+    <string name="GZ_theatre_price">Depends on the event</string>
+    <string name="GZ_theatre_address">1 Zhujiang W Rd, Tianhe District, Guangzhou, Guangdong Province, China</string>
+    <string name="GZ_theatre_about">Guangzhou Opera House (simplified Chinese: 广州大剧院; traditional Chinese: 廣州大劇院; pinyin: Guǎngzhōu dajùyuàn; Jyutping: Gwong2 zau1 daai6 kek6 jyun2) is a Chinese opera house in Guangzhou, Guangdong province, People\'s Republic of China. Designed by Zaha Hadid, it opened on the 9th of May in 2010.</string>
+
+    <string name="GZ_shangxia9_name">Shangxiajiu Commercial Pedestrian Street</string>
+    <string name="GZ_shangxia9_hours">All the time</string>
+    <string name="GZ_shangxia9_price">Depends on how much you shop</string>
+    <string name="GZ_shangxia9_address">Shangxiajiu Road, Liwan District, Guangzhou, Guangdong Province, China</string>
+    <string name="GZ_shangxia9_about">Shangxiajiu Pedestrian Street, or simply as Shangxiajiu, is a commercial pedestrian street in Liwan District, Guangzhou, Guangdong, China. It is the first business street in Guangzhou, and it opened in September 1995.</string>
+
+    <string name="GZ_baiyunshan_name">Baiyun Mountain</string>
+    <string name="GZ_baiyunshan_hours">9:00 AM - 6:00 PM</string>
+    <string name="GZ_baiyunshan_price">3 dollar</string>
+    <string name="GZ_baiyunshan_address">Baiyun S Ave, Baiyun Diet Culture Gallery, Baiyun, Guangzhou, Guangdong Province, China</string>
+    <string name="GZ_baiyunshan_about">Baiyun Mountain has been famed as a scenic spot since ancient times.[2] Its visitors predated the foundation of Panyu (now Guangzhou) in 214 bc, with various celebrities of the Warring States period (5th–3rd centuries bc) known to have traveled there. Its beauty was again celebrated during the 3rd–5th century Jin Dynasty and the 7th–9th century Tang.[4] Since the Song, various scenes at Baiyun have been named among the Eight Sights of Ram City, lists of Guangzhou\'s loveliest spots.[4][5][3] However, few of the historical sites have survived to the present day[2] and others—such as the view of Guangzhou\'s old walled city at dusk—have changed drastically as the city has expanded to and around the mountain.</string>
+
+    <string name="SH_CBD_name">Lujiazui</string>
+    <string name="SH_CBD_hours">All the time</string>
+    <string name="SH_CBD_price">Free</string>
+    <string name="SH_CBD_address">Lujiazui, Pudong District, Shanghai, China</string>
+    <string name="SH_CBD_about">Lujiazui is Shanghai’s glitzy financial district, known for futuristic skyscrapers like the Shanghai Tower, with its lofty observation deck, and the needle-like Oriental Pearl TV Tower, home to the Shanghai Municipal History Museum. The area is also noted for its luxe-hotel nightlife, with European fine dining, stylish bars and posh dance clubs offering panoramic views.</string>
+
+    <string name="SH_XunYiCao_name">Shanghai International Resort</string>
+    <string name="SH_XunYiCao_hours">9:00 AM - 5:30 PM</string>
+    <string name="SH_XunYiCao_price">55 dollars</string>
+    <string name="SH_XunYiCao_address">No.199, 399 Alley, Shendidongl road, Pudong District, Shanghai, China</string>
+    <string name="SH_XunYiCao_about">The Shanghai International Tourism Resort is located in the east and central part of Shanghai, with a planned area of 24.7 square kilometers, including the core area of 7 square kilometers, including Shanghai Disneyland Phase I theme park and supporting facilities.</string>
+
+    <string name="SH_GuangFuLin_name">Guangfulin</string>
+    <string name="SH_GuangFuLin_hours">9:00 AM - 5:00 PM</string>
+    <string name="SH_GuangFuLin_price">8 dollars</string>
+    <string name="SH_GuangFuLin_address">3260 Alley, Guangfulin Road, Shanghai, China</string>
+    <string name="SH_GuangFuLin_about">Guangfulin is an archaeological site in Songjiang District, Shanghai, China. It is estimated to be over 5,000 years old.[1] Artifacts from the Zhou Dynasty have also been unearthed at the site. The site covers 250 square kilometers (c.97 square miles).[citation needed] It was announced to be the Shanghai Cultural Relics Protection Site in December 1977 and was approved by the state council as one of the seventh batch of National Key Cultural Relics Protection Units in May 2013. The Guangfulin Relics Park is under construction.</string>
+
+    <string name="SH_ChengHuangMiao_name">City God Temple of Shanghai</string>
+    <string name="SH_ChengHuangMiao_hours">All the time</string>
+    <string name="SH_ChengHuangMiao_price">Depends how much you buy</string>
+    <string name="SH_ChengHuangMiao_address">249 Fangbang Middle Rd, Cheng Huang Miao, Huangpu, Shanghai, China</string>
+    <string name="SH_ChengHuangMiao_about">The City God Temple or Temple of the City Gods (simplified Chinese: 上海城隍庙; traditional Chinese: 上海城隍廟; pinyin: Shànghǎi Chénghuángmiào; Shanghainese: Zånhae Senwonmioh), officially the City Temple of Shanghai,[1] is a folk temple located in the old city of Shanghai. It commemorates the elevation of Shanghai to municipal status and is the site of the veneration of three Chinese figures honored as the city gods of the town. It is also known by some locals as the "Old City God Temple", in reference to a later "New City God Temple" which no longer exists.</string>
+
+    <string name="SH_FengJing_name">Fengjing</string>
+    <string name="SH_FengJing_hours">8:00 AM - 5:00 PM</string>
+    <string name="SH_FengJing_price">8 dollars</string>
+    <string name="SH_FengJing_address">FengjingJinshan District, Shanghai, China</string>
+    <string name="SH_FengJing_about">Fengjing (simplified Chinese: 枫泾; traditional Chinese: 楓涇; pinyin: Fēngjīng) is a town in Jinshan District, Shanghai. An ancient water town, it also has a new town with a Canadian theme and an industrial zone. It is a centre for Jinshan peasant painting.Fengjing has an area of 91.7 km2 (35.4 sq mi), and had a registered population of 63,400 in 2008.[1] It lies next to the G60 Shanghai–Kunming Expressway and China National Highway 320.[2] Fengjing\'s railway stations are Fengjing station, on the Shanghai-Kunming Railway,[3] and Jinshan North station on the Shanghai-Hangzhou High-Speed Railway,[4] which opened in 2010.[5]</string>
+    
+    <string name="WH_YHY_name">East Lake Cherry Blossom Park</string>
+    <string name="WH_YHY_hours">8:00 AM - 10:00 PM</string>
+    <string name="WH_YHY_price">10 dollars</string>
+    <string name="WH_YHY_address">Lumo Rd, Hongshan, Wuhan, Hubei, China</string>
+    <string name="WH_YHY_about">East Lake Cherry Blossom Park (Chinese: 东湖樱花园), also called Wuhan Moshan Cherry Blossom Park (Chinese: 武汉磨山樱园), is a park in the East Lake area of Wuchang District, Wuhan City, Hubei Province, China. The Japanese cherry trees were planted in this area near Wuhan University during the Japanese Army\'s occupation of Wuhan, and were continued to be planted after the Second World War. It is one of the two most famous cherry blossom parks in China, the other being Longwangtang Cherry Blossom Park in Lushunkou District, Dalian, Liaoning.</string>
+
+    <string name="WH_CBD_name">Wuhan Central Business District</string>
+    <string name="WH_CBD_hours">All the time</string>
+    <string name="WH_CBD_price">Free</string>
+    <string name="WH_CBD_address">Huaihai Rd, Wangjiadun Shangquan, Jianghan District, Wuhan, Hubei, China</string>
+    <string name="WH_CBD_about">CBD is located in the former Wuhan Wangjiadun Airport. The airfield was the main airfield of Hankou city in the Republic of China. It was also used as the main airfield for Japanese air raids on Chongqing and Chengdu in World War II, as well as the airfield used by the US air force. It was used as an air force airfield before 1993 and later could also be used for civilian purposes. The airport was closed in 2007 after the completion of The Tianhe Airport, which is close to the centre of Hankou and affects the development of Hankou.</string>
+    
+    <string name="WH_hubuxiang_name">Hubu Alley</string>
+    <string name="WH_hubuxiang_hours">6:00 AM - 11:59 PM</string>
+    <string name="WH_hubuxiang_price">Depends how much you spent</string>
+    <string name="WH_hubuxiang_address">Hubu AlleyWuchang District, Wuhan, Hubei, China</string>
+    <string name="WH_hubuxiang_about">This lane is named hubu Lane from the east neighbor household Office of the San Francisco. In the Jiajing Period of the Ming Dynasty, huguang Map Was recorded in one of the maps to accurately indicate the location of Hubu Lane. Through the ages, Hubu Lane is close to the Yangtze River wharf, boats and vehicles in an endless stream, a natural formation of traders trade. All kinds of snacks mushroomed, gradually became famous, lasting.</string>
+    
+    <string name="WH_hankouli_name">HanKouLi</string>
+    <string name="WH_hankouli_hours">8:30 AM - 5:30 PM</string>
+    <string name="WH_hankouli_price">Free</string>
+    <string name="WH_hankouli_address">Yuanboyuan E Rd, Wuhan, Qiaokou District, Hubei, China</string>
+    <string name="WH_hankouli_about">A retro historical and cultural street -- "Hankou Li", which is hidden in purdah and original taste, takes The opening of Hankou port for more than one hundred years as the context to restore the representative architecture, culture and business forms of Hanzheng Street, Dajia Street, Changdi Street and Hualou Street in the late Qing Dynasty and the early Republic of China and show the life style of old Hankou.</string>
+
+    <string name="WH_huanghelou_name">Yellow Crane Tower</string>
+    <string name="WH_huanghelou_hours">7:00 AM - 6:30 PM</string>
+    <string name="WH_huanghelou_price">12 dollars</string>
+    <string name="WH_huanghelou_address">Huanghelou E Rd, Wuchang District, Wuhan, Hubei, China</string>
+    <string name="WH_huanghelou_about">Yellow Crane Tower (simplified Chinese: 黄鹤楼; traditional Chinese: 黃鶴樓; pinyin: Huánghè Lóu) is a traditional Chinese tower located in Wuhan. The current structure was built in 1981, but the tower has existed in various forms from as early as AD 223. The current Yellow Crane Tower is 51.4 m (169 ft) high and covers an area of 3,219 m2 (34,650 sq ft). It is situated on Snake Hill (蛇山), one kilometer away from the original site, on the banks of the Yangtze River in Wuchang District.</string>
+
+    <string name="CD_anshun_name">Anshun Bridge</string>
+    <string name="CD_anshun_hours">All the time</string>
+    <string name="CD_anshun_price">Free</string>
+    <string name="CD_anshun_address">Binjiang E Rd, Jinjiang District, Chengdu, Sichuan, China</string>
+    <string name="CD_anshun_about">The Anshun Bridge is a bridge in the provincial capital of Chengdu in Sichuan, China. It crosses the Jin River. The covered bridge contains a relatively large restaurant and is a popular eating location in the city. </string>
+
+    <string name="CD_taiguli_name">Sino-Ocean Taikoo Li Chengdu</string>
+    <string name="CD_taiguli_hours">10:00 AM - 10:00 PM</string>
+    <string name="CD_taiguli_price">Depends how much you buy</string>
+    <string name="CD_taiguli_address">Sino-Ocean Taikoo Li Chengdu, Jinjiang District, Chengdu, China</string>
+    <string name="CD_taiguli_about">Sino-Ocean Taikoo Li Chengdu is a mixed-use development located in the Jinjiang District of Chengdu, near the Chunxi Road shopping district.</string>
+
+    <string name="CD_jinli_name">Jinli Ancient Street</string>
+    <string name="CD_jinli_hours">9:00 AM - 2:00 AM (second day)</string>
+    <string name="CD_jinli_price">Depends how much you buy</string>
+    <string name="CD_jinli_address"> 231号附1, Wuhouci St, Wuhou District, Chengdu, Sichuan, China</string>
+    <string name="CD_jinli_about">Chengdu is a city brimming with a strong leisurely ambience with Jinli Street as the typical representative. The street is located to the east of the Wuhou Temple of Chengdu (the most famous Three Kingdoms period (220 - 280) relic museum in China).</string>
+
+    <string name="CD_siguniang_name">Mount Siguniang</string>
+    <string name="CD_siguniang_hours">7:00 AM - 4:00 PM</string>
+    <string name="CD_siguniang_price">12 dollars</string>
+    <string name="CD_siguniang_address">Mount SiguniangXiaojin County, Ngawa Tibetan and Qiang Autonomous Prefecture, China</string>
+    <string name="CD_siguniang_about">Mount Siguniang is the highest mountain of Qionglai Mountains in Western China. It is located in the bordering area of Rilong Town, Xiaojin County and Wenchuan County in Ngawa Tibetan and Qiang Autonomous Prefecture, Sichuan Province. Mount Siguniang is renowned for its beauty. </string>
+
+    <string name="CD_dufucaotang_name">Du Fu Thatched Cottage</string>
+    <string name="CD_dufucaotang_hours">9:00 AM - 5:30 PM</string>
+    <string name="CD_dufucaotang_price">8 dollars</string>
+    <string name="CD_dufucaotang_address">28 Caotang Rd, Qing Yang Gong Shang Quan, Qingyang District, Chengdu, Sichuan, China</string>
+    <string name="CD_dufucaotang_about">Du Fu Thatched Cottage is a 24-acre park and museum in honour of the Tang dynasty poet Du Fu at the western outskirts of Chengdu, adjacent to the Huanhua Xi. In 1961 the Chinese government established Du Fu Thatched Cottage as a National Heritage site.</string>
+
+</resources>
