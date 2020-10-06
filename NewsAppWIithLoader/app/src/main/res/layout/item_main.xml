@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/main_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:textStyle="italic|bold"
+        tools:text="Football quiz: host venues" />
+
+    <TextView
+        android:id="@+id/main_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        tools:text="2020-06-15T09:31:09Z"/>
+
+    <TextView
+        android:id="@+id/main_author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        tools:text="Tom Bee"/>
+
+    <TextView
+        android:id="@+id/main_web"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        android:visibility="visible"
+        tools:text="https://www.theguardian.com/football/2020/jun/15/football-quiz-hosts-world-cup-european-championship-champions-league"/>
+    <!--    visibility:gone means invisible and not occupy place    -->
+</LinearLayout>

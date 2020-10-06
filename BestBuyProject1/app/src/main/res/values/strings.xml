@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Best Buy Project1</string>
+    <string name="day">Sunday\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday</string>
+    <string name="time">Close\n10AM--6PM\n10AM--6PM\n10AM--6PM\n10AM--6PM\n10AM--6PM\nClose</string>
+    <string name="address">13107 40 Road C300, Queens, NY 11354</string>
+    <string name="web">www.bestbuy.com</string>
+    <string name="description">\tBest Buy Co., Inc. is an American multinational consumer electronics retailer headquartered in Richfield, Minnesota. It was originally founded by Richard M. Schulze and James Wheeler in 1966 as an audio specialty store called Sound of Music. In 1983, it was re-branded under its current name with an emphasis placed on consumer electronics.</string>
+
+</resources>

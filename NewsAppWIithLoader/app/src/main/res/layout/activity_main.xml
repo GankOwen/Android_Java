@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <androidx.appcompat.widget.SearchView
+                android:id="@+id/main_searchView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:queryHint="Search what you want in here"
+                app:iconifiedByDefault="false"/>
+            <!--iconified means if need to click magnifying glass icon to start input-->
+
+            <Button
+                android:id="@+id/main_search_button"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="search"/>
+
+        </LinearLayout>
+
+
+        <ListView
+            android:id="@+id/main_listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/main_empty_news_textView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/main_empty_news_hint"
+        android:textSize="30sp"
+        android:textColor="@android:color/darker_gray"
+        android:gravity="center"/>
+
+</RelativeLayout>

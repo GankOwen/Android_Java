@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:foreground="?selectableItemBackground">
+
+    <ImageView
+        android:id="@+id/shopping_cart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_shopping_cart"
+        android:layout_centerInParent="true"/>
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <TextView
+            android:id="@+id/cart_shopping_counter_textView"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            style="@style/Widget.Design.FloatingActionButton"
+            tools:text="99"
+            android:textSize="10sp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:layout_marginBottom="20dp"
+            android:layout_marginStart="20dp"
+            android:visibility="invisible"/>
+
+    </FrameLayout>
+
+</RelativeLayout>

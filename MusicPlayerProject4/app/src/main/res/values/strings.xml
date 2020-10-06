@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Music Player Project4</string>
+    <string name="song1Name">You were good to me</string>
+    <string name="song1Singer">Jeremy Zucker, Chelsea Cutler</string>
+    <string name="song1Lyricist">Jeremy Zucker</string>
+    <string name="song1Composer">Jeremy Zucker</string>
+    <string name="song1Duration">3:50</string>
+    <string name="song1Album">You were good to me</string>
+
+    <string name="song2Name">Comethru</string>
+    <string name="song2Singer">Jeremy Zucker</string>
+    <string name="song2Lyricist">Jeremy Zucker</string>
+    <string name="song2Composer">Jeremy Zucker, Daniel Rakow</string>
+    <string name="song2Duration">3:03</string>
+    <string name="song2Album">Comethru</string>
+
+    <string name="song3Name">Not ur friend</string>
+    <string name="song3Singer">Jeremy Zucker, Chelsea Cutler</string>
+    <string name="song3Lyricist">Jeremy Zucker</string>
+    <string name="song3Composer">Jeremy Zucker, James Ghaleb, Rami Yacoub,Rickard Goransson</string>
+    <string name="song3Duration">2:56</string>
+    <string name="song3Album">love is not dying</string>
+
+    <string name="song4Name">Fuck I\'m lonely</string>
+    <string name="song4Singer">Lauv, Anne Marie</string>
+    <string name="song4Lyricist">Lauv</string>
+    <string name="song4Composer">Lauv, Anne Marie</string>
+    <string name="song4Duration">3:15</string>
+    <string name="song4Album">fuck, i\'m lonely (from “13 Reasons Why: Season 3”)</string>
+
+    <string name="song5Name">Enemies</string>
+    <string name="song5Singer">Lauv</string>
+    <string name="song5Lyricist">Lauv</string>
+    <string name="song5Composer">Ari Leff, Alex O\'Neil, Michael Pollack</string>
+    <string name="song5Duration">3:15</string>
+    <string name="song5Album">I Met You When I Was 18</string>
+
+    <string name="song6Name">Feeling</string>
+    <string name="song6Singer">Lauv, Anne Marie</string>
+    <string name="song6Lyricist">Lauv</string>
+    <string name="song6Composer">Ari Leff, Alex O\'Neil, and Michael Pollack</string>
+    <string name="song6Duration">3:05</string>
+    <string name="song6Album">How I\'m Feeling</string>
+
+    <string name="song7Name">Sims</string>
+    <string name="song7Singer">Lauv</string>
+    <string name="song7Lyricist">Lauv</string>
+    <string name="song7Composer">Lauv</string>
+    <string name="song7Duration">2:37</string>
+    <string name="song7Album">How I\'m Feeling</string>
+
+    <string name="song8Name">Tonight</string>
+    <string name="song8Singer">Demxntia</string>
+    <string name="song8Lyricist">Demxntia</string>
+    <string name="song8Composer">Demxntia</string>
+    <string name="song8Duration">1:24</string>
+    <string name="song8Album">Good Night</string>
+
+    <string name="song9Name">Sad Boys</string>
+    <string name="song9Singer">Myylo</string>
+    <string name="song9Lyricist">Myylo</string>
+    <string name="song9Composer">Myylo</string>
+    <string name="song9Duration">2:48</string>
+    <string name="song9Album">Sad Boys</string>
+
+    <string name="song10Name">Sincerity is scary</string>
+    <string name="song10Singer">The 1975</string>
+    <string name="song10Lyricist">The 1975</string>
+    <string name="song10Composer">The 1975</string>
+    <string name="song10Duration">3:45</string>
+    <string name="song10Album">Sincerity Is Scary</string>
+</resources>

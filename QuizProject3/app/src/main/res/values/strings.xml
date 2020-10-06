@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QuizProject3</string>
+    <string name="title">Elementary Math Quiz</string>
+    <string name="question1">1. What is the answer of 38+43?</string>
+    <string name="question1_choice_A">71</string>
+    <string name="question1_choice_B">81</string>
+    <string name="question1_choice_C">91</string>
+    <string name="question1_choice_D">80</string>
+    <string name="question2">2. What is the answer of 8x3?</string>
+    <string name="question2_choice_A">16</string>
+    <string name="question2_choice_B">21</string>
+    <string name="question2_choice_C">24</string>
+    <string name="question2_choice_D">32</string>
+    <string name="question3">3. What is the answer of 10/4? (Multiple choices, there is not partial credit)</string>
+    <string name="question3_choice_A">2.5</string>
+    <string name="question3_choice_B">2.25</string>
+    <string name="question3_choice_C">5/3</string>
+    <string name="question3_choice_D">5/2</string>
+    <string name="question4">4. Is 0 a odd number?</string>
+</resources>

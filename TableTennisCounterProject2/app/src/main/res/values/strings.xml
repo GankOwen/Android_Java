@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TableTennisCounterProject2</string>
+    <string name="title">Table Tennis Counter</string>
+    <string name="player1">Player1</string>
+    <string name="add_point">+1 point</string>
+    <string name="minus_point">-1 point</string>
+    <string name="player2">Player2</string>
+    <string name="foul">foul</string>
+    <string name="two_players">Single</string>
+    <string name="four_players">Double</string>
+    <string name="text_hint">Here will show the winner</string>
+    <string name="reset">reset</string>
+</resources>

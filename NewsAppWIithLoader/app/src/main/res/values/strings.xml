@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News App With Loader</string>
+    <string name="main_empty_news_hint">Empty News</string>
+</resources>
